@@ -9,11 +9,8 @@ This automation workflow processes invoices from Google Drive, extracts key info
 Google Drive → Download PDF → Extract Data → AI Analysis → 
 Sheet Logging → Email Composition → Email Sending
 ```
-<<<<<<< HEAD
+
 ![Automation Flow](./images/automation-flow.png)
-=======
-![Alt Text](https://drive.google.com/file/d/1MQtMaqSdU_MRzMkuoNDjJmpkHU8tfg4D/view?usp=sharing)
->>>>>>> f69fddf50806d4fc2911150dd9c29ccbc55dca3f
 
 ## Components Breakdown
 
@@ -363,7 +360,7 @@ return [
    - Add Gmail credentials to n8n
    - Enable "Less secure app access" or use App Passwords
 
-![Automation Flow](./automated-email.png)
+![Automation Flow](./images/automated-email.png)
 
 ## Usage
 
