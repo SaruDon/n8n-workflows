@@ -1,5 +1,6 @@
 # Invoice Processing Automation Workflow
 
+
 ## Overview
 This automation workflow processes invoices from Google Drive, extracts key information using AI, logs data to Google Sheets, and sends automated email notifications. The system uses n8n (workflow automation tool) to orchestrate the entire process.
 
@@ -8,7 +9,11 @@ This automation workflow processes invoices from Google Drive, extracts key info
 Google Drive → Download PDF → Extract Data → AI Analysis → 
 Sheet Logging → Email Composition → Email Sending
 ```
+<<<<<<< HEAD
 ![Automation Flow](./images/automation-flow.png)
+=======
+![Alt Text](https://drive.google.com/file/d/1MQtMaqSdU_MRzMkuoNDjJmpkHU8tfg4D/view?usp=sharing)
+>>>>>>> f69fddf50806d4fc2911150dd9c29ccbc55dca3f
 
 ## Components Breakdown
 
